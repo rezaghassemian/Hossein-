@@ -1,0 +1,6 @@
+﻿flask==2.3.2
+hazm==0.9.1
+sympy==1.12
+requests==2.31.0
+langdetect==1.0.9
+setuptools==65.5.1  
